@@ -1,0 +1,26 @@
+[
+  {
+    "title": "BookListing",
+    "imageSrc": "projects/BookListing.jpg",
+    "description": "This project is build using MERN stack. It lists Book Available!",
+    "skills": ["MongoDB","Express","React", "Node","CRUD","Router"],
+    "demo": "https://github.com/jks1111/BookListing",
+    "source": "https://github.com/jks1111/BookListing"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/ticTacToe.png",
+    "description": "This is a Tic-Tac-Toe game project made in Tkinter! ",
+    "skills": ["Python", "Tkinter"],
+    "demo": "https://private-user-images.githubusercontent.com/98639253/262624768-31df77f5-6cfb-4d94-b4bd-e568a8572398.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgyMzEwMjAsIm5iZiI6MTcyODIzMDcyMCwicGF0aCI6Ii85ODYzOTI1My8yNjI2MjQ3NjgtMzFkZjc3ZjUtNmNmYi00ZDk0LWI0YmQtZTU2OGE4NTcyMzk4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA2VDE2MDUyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmZDFmZTEyZGYzMDFkNmEwZDQ4NjdmYWEwZTc3YjUyYzdlOTI2NDRkNmI5OGQ5ZjVjMjY1NzEyMTU5MmFmMjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yNkg14_m0flVf-oW7Sf45Bakk_2yFC8Is4HDUS62G7E",
+    "source": "https://github.com/jks1111/Tic-Tac-Toe-Game-using-Tkinter?tab=readme-ov-file"
+  },
+  {
+    "title": "What's Your Colour",
+    "imageSrc": "projects/color.png",
+    "description": "This is a webapp which shows the colour of the rgb/Hexacode/string value!",
+    "skills": ["React", "State","Hooks"],
+    "demo": "https://whatsyourcolour.netlify.app/",
+    "source": "https://github.com/jks1111/ColorChangerByTyping"
+  }
+]
