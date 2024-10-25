@@ -22,5 +22,13 @@
     "skills": ["React", "State","Hooks"],
     "demo": "https://whatsyourcolour.netlify.app/",
     "source": "https://github.com/jks1111/ColorChangerByTyping"
+  },
+  {
+    "title": "BookTrainTicket",
+    "imageSrc": "aprojects/BookTrainTicket.png",
+    "description": "This is a webapp to book train tickets",
+    "skills": ["React", "State","Hooks"],
+    "demo": "https://booktrainticket.netlify.app/",
+    "source": "https://github.com/jks1111/ColorChangerByTyping"
   }
 ]
