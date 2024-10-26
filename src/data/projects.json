@@ -29,6 +29,6 @@
     "description": "This is a webapp to book train tickets",
     "skills": ["React", "State","Hooks"],
     "demo": "https://booktrainticket.netlify.app/",
-    "source": "https://github.com/jks1111/ColorChangerByTyping"
+    "source": "https://github.com/jks1111/BookTrainTicket"
   }
 ]
